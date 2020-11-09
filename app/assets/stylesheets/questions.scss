@@ -25,7 +25,19 @@ a {
   color: yellow;
 }
 
-form {
+input {
+  width: 100%;
+}
 
+input[type=text] {
+  font-size: 5vw;
+}
+
+input[type=submit] {
+  background-color: pink;
+  font-size: 5vw;
+  color: grey;
+  border: none;
+  margin: 2vw 0;
 }
 
